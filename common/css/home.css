@@ -1,0 +1,129 @@
+.banner{
+    padding-left: 0px;
+    padding-right: 1px;
+    padding-top: 0px;
+    padding-bottom: 5px;
+    margin-bottom: -5px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -8px;
+    color: #ffffff;
+    background-color: transparent;
+    background-image: url("../img/main-bg.png");
+    background-repeat: repeat-x;
+    opacity: 0.9;
+}
+
+.bannerLogin {
+    margin-bottom: 6px;
+    margin-right: -8px;
+    position: relative;
+    height:120px;
+    background: url('../img/main-bg.png');
+
+    /*opacity: 0.8;*/
+}
+
+.bannerLogin2 {
+    margin-top: -10px;
+    margin-right: -8px;
+    margin-left: -10px;
+    position: relative;
+    height:60px;
+    background: url('../img/main-bg.png');
+
+    /*opacity: 0.8;*/
+}
+
+.banner-up{
+    position:absolute;
+    height:100%;
+    width:55%;
+    background: -webkit-linear-gradient(180deg, transparent,#ffffff);
+    background: -moz-linear-gradient(180deg, transparent,#ffffff);
+    background: -o-linear-gradient(180deg, transparent,#ffffff);
+    background: linear-gradient(180deg, transparent,#fffff);
+    z-index:10;
+}
+.bannerLogin .img-logo{
+    position:absolute;
+    top:2rem;
+    z-index:200;
+}
+
+.bannerLogin2 .img-logo{
+    margin-top: -5px;
+    position:absolute;
+    z-index:200;
+}
+
+.pull-right{
+    float: right;
+}
+
+
+/* Line 3644 */
+.navbar
+{
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border-top-width: 1px;
+    border-right-width-value: 1px;
+    border-bottom-width: 1px;
+    border-left-width-value: 1px;
+    border-top-style: solid;
+    border-right-style-value: solid;
+    border-bottom-style: solid;
+    border-left-style-value: solid;
+    border-top-color: transparent;
+    border-right-color-value: transparent;
+    border-bottom-color: transparent;
+    border-left-color-value: transparent;
+    border-image-source: none;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-width: 1 1 1 1;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+}
+
+/* Line 3651 */
+.navbar
+{
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+/* Line 3719 */
+.navbar-fixed-top, .navbar-fixed-bottom
+{
+    position: fixed;
+    right: 0px;
+    left: 0px;
+    z-index: 1030;
+}
+
+/* Line 3727 */
+.navbar-fixed-top, .navbar-fixed-bottom
+{
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+/* Line 3732 */
+.navbar-fixed-top
+{
+    top: 0px;
+    border-top-width: 0px;
+    border-right-width-value: 0px;
+    border-left-width-value: 0px;
+    background-color: #ffffff;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: #2980B9;
+    box-shadow: 0px -3px 12px rgba(0, 0, 0, 0.5);
+}

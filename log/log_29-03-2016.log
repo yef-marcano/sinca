@@ -1,0 +1,22 @@
+29-03-2016 17:08:03 parroquia findValuesDropDownParroquia
+	error en pgsql ->SELECT cod_parroquia, cod_municipio, municipio, parroquia, borrado FROM vsw_parroquia WHERE not borrado and cod_municipio= ORDER BY parroquia
+29-03-2016 22:56:18 tblorden_salida_cementera insert
+	error en pgsql ->INSERT INTO tbldetalle_orden_salida_cementera (clvorden_salida_cementera,clvinsumo,intcantidad,clvestatus,dtmfecha_creacion ,clvusuario_creador) VALUES ('7','403','', 0, now(),1)
+29-03-2016 22:56:20 tblorden_salida_cementera insert
+	error en pgsql ->INSERT INTO tbldetalle_orden_salida_cementera (clvorden_salida_cementera,clvinsumo,intcantidad,clvestatus,dtmfecha_creacion ,clvusuario_creador) VALUES ('8','403','', 0, now(),1)
+29-03-2016 22:56:20 tblorden_salida_cementera insert
+	error en pgsql ->INSERT INTO tbldetalle_orden_salida_cementera (clvorden_salida_cementera,clvinsumo,intcantidad,clvestatus,dtmfecha_creacion ,clvusuario_creador) VALUES ('9','403','', 0, now(),1)
+29-03-2016 22:56:21 tblorden_salida_cementera insert
+	error en pgsql ->INSERT INTO tbldetalle_orden_salida_cementera (clvorden_salida_cementera,clvinsumo,intcantidad,clvestatus,dtmfecha_creacion ,clvusuario_creador) VALUES ('10','403','', 0, now(),1)
+29-03-2016 22:56:21 tblorden_salida_cementera insert
+	error en pgsql ->INSERT INTO tbldetalle_orden_salida_cementera (clvorden_salida_cementera,clvinsumo,intcantidad,clvestatus,dtmfecha_creacion ,clvusuario_creador) VALUES ('11','403','', 0, now(),1)
+29-03-2016 22:56:22 tblorden_salida_cementera insert
+	error en pgsql ->INSERT INTO tbldetalle_orden_salida_cementera (clvorden_salida_cementera,clvinsumo,intcantidad,clvestatus,dtmfecha_creacion ,clvusuario_creador) VALUES ('12','403','', 0, now(),1)
+29-03-2016 22:56:22 tblorden_salida_cementera insert
+	error en pgsql ->INSERT INTO tbldetalle_orden_salida_cementera (clvorden_salida_cementera,clvinsumo,intcantidad,clvestatus,dtmfecha_creacion ,clvusuario_creador) VALUES ('13','403','', 0, now(),1)
+29-03-2016 22:56:23 tblorden_salida_cementera insert
+	error en pgsql ->INSERT INTO tbldetalle_orden_salida_cementera (clvorden_salida_cementera,clvinsumo,intcantidad,clvestatus,dtmfecha_creacion ,clvusuario_creador) VALUES ('14','403','', 0, now(),1)
+29-03-2016 22:56:24 tblorden_salida_cementera insert
+	error en pgsql ->INSERT INTO tbldetalle_orden_salida_cementera (clvorden_salida_cementera,clvinsumo,intcantidad,clvestatus,dtmfecha_creacion ,clvusuario_creador) VALUES ('15','403','', 0, now(),1)
+29-03-2016 22:56:24 tblorden_salida_cementera insert
+	error en pgsql ->INSERT INTO tbldetalle_orden_salida_cementera (clvorden_salida_cementera,clvinsumo,intcantidad,clvestatus,dtmfecha_creacion ,clvusuario_creador) VALUES ('16','403','', 0, now(),1)

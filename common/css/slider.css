@@ -1,0 +1,32 @@
+#example { 
+    float: left; 
+}
+
+.ft-title { 
+    padding: 10px 10px; 
+    width: 580px; 
+    text-align: left;
+    font-size: 12px;
+}
+
+.topbar h2{ 
+    font-weight: normal !important 
+}
+
+.topbar a { 
+    color: #3399cc; 
+    text-decoration: none; 
+}
+
+.topbar a:hover { 
+    text-decoration: underline; 
+}
+
+.ft-prev, .ft-next { 
+    background-color: #000; 
+    padding: 0 10px; 
+}
+
+.ft-button-ft-active { 
+    color: black; 
+}

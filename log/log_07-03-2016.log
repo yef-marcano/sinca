@@ -1,0 +1,6 @@
+07-03-2016 15:06:52 tblorden_salida_cementera insert
+	error en pgsql ->INSERT INTO tblorden_salida_cementera (clvsolicitud_cementera,dtmfecha,clvconductor,clvvehiculo,memdireccion_destino,memobservacion,clvestatus,dtmfecha_creacion ,clvusuario_creador) VALUES ('', '', '', '', '', '', 0, now(),1)
+07-03-2016 15:12:05 tblorden_salida_cementera insert
+	error en pgsql ->INSERT INTO tblorden_salida_cementera (clvsolicitud_cementera,dtmfecha,clvconductor,clvvehiculo,memdireccion_destino,memobservacion,clvestatus,dtmfecha_creacion ,clvusuario_creador) VALUES ('', '', '', '', '', '', 0, now(),1)
+07-03-2016 15:12:25 tblorden_salida_cementera insert
+	error en pgsql ->INSERT INTO tbldetalle_orden_salida_cementera (clvorden_salida_cementera,clvinsumo,intcantidad,clvestatus,dtmfecha_creacion ,clvusuario_creador) VALUES ('5','393','2, 0, now(),1)

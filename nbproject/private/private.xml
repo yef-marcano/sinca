@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="6">
+        <file>
+            <url>controller/php/ac_tblconstrupatria.php</url>
+            <bookmark id="5">
+                <name/>
+                <line>53</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>model/md_tblperfil_menu_accion.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>54</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>view/frm_proyecto_planilla.php</url>
+            <bookmark id="2">
+                <name/>
+                <line>46</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>view/frm_orden_salida_almacen_planilla.php</url>
+            <bookmark id="6">
+                <name/>
+                <line>40</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>controller/php/ac_tblsolicitud.php</url>
+            <bookmark id="3">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp/www/sinca/view/frm_construpatria.php</file>
+            <file>file:/C:/wamp/www/sinca/view/frm_orden_salida_almacen_planilla.php</file>
+            <file>file:/C:/wamp/www/sinca/view/frm_entrada_almacen_planilla.php</file>
+            <file>file:/C:/wamp/www/sinca/view/frm_cementera_acopio.php</file>
+        </group>
+    </open-files>
+</project-private>
