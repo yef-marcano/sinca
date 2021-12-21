@@ -35,22 +35,12 @@ class Config {
 }
 
 $config = Config::singleton();
-/*
-$config->set('mysql_host', '192.168.0.91:3306');
-$config->set('mysql_user', 'root');
-$config->set('mysql_pass', 'root');
-$config->set('mysql_db_name', 'bd_saber_trabajo');
-*/
-//
+
   $config->set('pgsql_host', 'localhost');
   $config->set('pgsql_user', 'postgres');
   $config->set('pgsql_pass', 'postgres');
   $config->set('pgsql_db_name', 'bd_local');
   $config->set('pgsql_port', '5432'); 
 
-//$config->set('pgsql_host', '192.168.0.91');
-//$config->set('pgsql_user', 'sametsis');
-//$config->set('pgsql_pass', '+s4b1dur14+');
-//$config->set('pgsql_db_name', 'bd_local');
-//$config->set('pgsql_port', '5432'); 
+
 ?>
